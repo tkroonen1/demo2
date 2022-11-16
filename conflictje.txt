@@ -1,0 +1,4 @@
+Blokje A
+
+Regel1 Kenmerkjes 1 2 3 4 Goed
+Regel2 Kenmerkjes 4 5 6 7 Fout
